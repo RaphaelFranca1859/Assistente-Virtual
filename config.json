@@ -1,0 +1,15 @@
+{
+    "nome": "Ana",
+    "acoes": [
+        {
+            "nome": "abrir",
+            "objetos": [
+                "gmail",
+                "google",
+                "agenda"
+            ]
+        }
+
+        
+    ]
+}
