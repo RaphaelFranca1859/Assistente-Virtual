@@ -1,0 +1,44 @@
+{
+    "nome": "ana",
+    "acoes": [
+        {
+            "nome": "abrir",
+            "objetos": [
+                "gmail",
+                "google",
+                "agenda"
+            ]
+        },
+        {
+            "nome": "ligar",
+            "objetos": [
+                "cafeteira",
+                "café"
+            ]
+        },
+        {
+            "nome": "desligar",
+            "objetos": [
+                "cafeteira",
+                "café"
+            ]
+        },        
+        {
+            "nome": "iniciar",
+            "objetos": [
+                "computador",
+                "som"
+            ]
+        },
+        {
+            "nome": "desativar",
+            "objetos": [
+                "som",
+                "computador"
+                
+            ]
+        }
+
+        
+    ]
+}
